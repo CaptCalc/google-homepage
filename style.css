@@ -123,3 +123,12 @@ footer {
     position: relative;
     padding-right: 20px;
 }
+
+/****************
+A link styles
+****************/
+
+a {
+    /* remove the underline */
+    text-decoration: none;
+}
